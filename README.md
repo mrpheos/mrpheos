@@ -1,7 +1,7 @@
 - 𑁍 my handle is @mrpheos
-- 💻 I'm teaching myself to code.
+- 💻 I'd like to learn to code through DIY projects
 - 🏠 currently tinkering with homebridge (feeling a bit lost in the errors)
-- 🌳 my intention is to learn how to automate devices to create my dream garden and edible permaculture forest.
+- 🌳 my intention is to learn how to automate devices to create my dream garden and edible permaculture forest
 - 🎹 my vocation is music production, songwriting, and engineering
 - 😄 pronouns: he / him / his
 - ⚡ fun fact: I'm an avid student of yoga, meditation, and breathwork; today is day 586 of my daily meditation journey.
